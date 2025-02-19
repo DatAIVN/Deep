@@ -1,0 +1,205 @@
+epoch: 000 - iter: 00000 - train loss: 0.0471
+epoch: 000 - iter: 00200 - train loss: 5.7409
+epoch: 000 - iter: 00400 - train loss: 4.4586
+epoch: 000 - iter: 00600 - train loss: 3.8893
+epoch: 000 - iter: 00800 - train loss: 3.4578
+epoch: 000 - iter: 01000 - train loss: 3.0734
+epoch: 000 - iter: 01200 - train loss: 2.7049
+Model saved to bestmodel.pt!
+epoch: 000 - iter: 01345 - train loss: 3.7373 - valid loss: 2.1523 - time: 5.9288
+epoch: 001 - iter: 00000 - train loss: 0.0120
+epoch: 001 - iter: 00200 - train loss: 2.2935
+epoch: 001 - iter: 00400 - train loss: 2.0572
+epoch: 001 - iter: 00600 - train loss: 1.8968
+epoch: 001 - iter: 00800 - train loss: 1.7668
+epoch: 001 - iter: 01000 - train loss: 1.6839
+epoch: 001 - iter: 01200 - train loss: 1.5576
+epoch: 001 - iter: 01344 - train loss: 1.8321 - valid loss: 1.2998 - time: 5.5832
+epoch: 002 - iter: 00000 - train loss: 0.0069
+epoch: 002 - iter: 00200 - train loss: 1.3656
+epoch: 002 - iter: 00400 - train loss: 1.3535
+epoch: 002 - iter: 00600 - train loss: 1.2821
+epoch: 002 - iter: 00800 - train loss: 1.2371
+epoch: 002 - iter: 01000 - train loss: 1.2177
+epoch: 002 - iter: 01200 - train loss: 1.1251
+epoch: 002 - iter: 01344 - train loss: 1.2492 - valid loss: 1.0010 - time: 5.5735
+epoch: 003 - iter: 00000 - train loss: 0.0047
+epoch: 003 - iter: 00200 - train loss: 1.0289
+epoch: 003 - iter: 00400 - train loss: 1.0280
+epoch: 003 - iter: 00600 - train loss: 0.9763
+epoch: 003 - iter: 00800 - train loss: 0.9872
+epoch: 003 - iter: 01000 - train loss: 0.9875
+epoch: 003 - iter: 01200 - train loss: 0.9269
+epoch: 003 - iter: 01345 - train loss: 0.9812 - valid loss: 0.8348 - time: 5.5779
+epoch: 004 - iter: 00000 - train loss: 0.0036
+epoch: 004 - iter: 00200 - train loss: 0.8414
+epoch: 004 - iter: 00400 - train loss: 0.8367
+epoch: 004 - iter: 00600 - train loss: 0.8303
+epoch: 004 - iter: 00800 - train loss: 0.8365
+epoch: 004 - iter: 01000 - train loss: 0.8052
+epoch: 004 - iter: 01200 - train loss: 0.7968
+epoch: 004 - iter: 01344 - train loss: 0.8194 - valid loss: 0.7518 - time: 5.5738
+epoch: 005 - iter: 00000 - train loss: 0.0038
+epoch: 005 - iter: 00200 - train loss: 0.7300
+epoch: 005 - iter: 00400 - train loss: 0.6950
+epoch: 005 - iter: 00600 - train loss: 0.7205
+epoch: 005 - iter: 00800 - train loss: 0.7298
+epoch: 005 - iter: 01000 - train loss: 0.7010
+epoch: 005 - iter: 01200 - train loss: 0.6910
+epoch: 005 - iter: 01343 - train loss: 0.7101 - valid loss: 0.6999 - time: 5.5810
+epoch: 006 - iter: 00000 - train loss: 0.0030
+epoch: 006 - iter: 00200 - train loss: 0.6409
+epoch: 006 - iter: 00400 - train loss: 0.6364
+epoch: 006 - iter: 00600 - train loss: 0.6321
+epoch: 006 - iter: 00800 - train loss: 0.6278
+epoch: 006 - iter: 01000 - train loss: 0.6215
+epoch: 006 - iter: 01200 - train loss: 0.6261
+epoch: 006 - iter: 01344 - train loss: 0.6294 - valid loss: 0.6631 - time: 5.5767
+epoch: 007 - iter: 00000 - train loss: 0.0030
+epoch: 007 - iter: 00200 - train loss: 0.5523
+epoch: 007 - iter: 00400 - train loss: 0.5674
+epoch: 007 - iter: 00600 - train loss: 0.5676
+epoch: 007 - iter: 00800 - train loss: 0.5807
+epoch: 007 - iter: 01000 - train loss: 0.5703
+epoch: 007 - iter: 01200 - train loss: 0.5581
+epoch: 007 - iter: 01344 - train loss: 0.5651 - valid loss: 0.6310 - time: 5.5341
+epoch: 008 - iter: 00000 - train loss: 0.0024
+epoch: 008 - iter: 00200 - train loss: 0.4961
+epoch: 008 - iter: 00400 - train loss: 0.5082
+epoch: 008 - iter: 00600 - train loss: 0.5212
+epoch: 008 - iter: 00800 - train loss: 0.5179
+epoch: 008 - iter: 01000 - train loss: 0.5266
+epoch: 008 - iter: 01200 - train loss: 0.5309
+epoch: 008 - iter: 01344 - train loss: 0.5156 - valid loss: 0.6173 - time: 5.5901
+epoch: 009 - iter: 00000 - train loss: 0.0040
+epoch: 009 - iter: 00200 - train loss: 0.4555
+epoch: 009 - iter: 00400 - train loss: 0.4616
+epoch: 009 - iter: 00600 - train loss: 0.4685
+epoch: 009 - iter: 00800 - train loss: 0.4799
+epoch: 009 - iter: 01000 - train loss: 0.4863
+epoch: 009 - iter: 01200 - train loss: 0.4687
+epoch: 009 - iter: 01344 - train loss: 0.4734 - valid loss: 0.5980 - time: 5.5823
+epoch: 010 - iter: 00000 - train loss: 0.0015
+epoch: 010 - iter: 00200 - train loss: 0.4224
+epoch: 010 - iter: 00400 - train loss: 0.4206
+epoch: 010 - iter: 00600 - train loss: 0.4274
+epoch: 010 - iter: 00800 - train loss: 0.4487
+epoch: 010 - iter: 01000 - train loss: 0.4536
+epoch: 010 - iter: 01200 - train loss: 0.4317
+epoch: 010 - iter: 01345 - train loss: 0.4365 - valid loss: 0.5901 - time: 5.5563
+epoch: 011 - iter: 00000 - train loss: 0.0018
+epoch: 011 - iter: 00200 - train loss: 0.3835
+epoch: 011 - iter: 00400 - train loss: 0.3982
+epoch: 011 - iter: 00600 - train loss: 0.4084
+epoch: 011 - iter: 00800 - train loss: 0.4121
+epoch: 011 - iter: 01000 - train loss: 0.4226
+epoch: 011 - iter: 01200 - train loss: 0.4048
+epoch: 011 - iter: 01344 - train loss: 0.4053 - valid loss: 0.5750 - time: 5.5850
+epoch: 012 - iter: 00000 - train loss: 0.0018
+epoch: 012 - iter: 00200 - train loss: 0.3603
+epoch: 012 - iter: 00400 - train loss: 0.3751
+epoch: 012 - iter: 00600 - train loss: 0.3900
+epoch: 012 - iter: 00800 - train loss: 0.3808
+epoch: 012 - iter: 01000 - train loss: 0.3856
+epoch: 012 - iter: 01200 - train loss: 0.3874
+Model saved to bestmodel.pt!
+epoch: 012 - iter: 01345 - train loss: 0.3795 - valid loss: 0.5772 - time: 6.2017
+epoch: 013 - iter: 00000 - train loss: 0.0016
+epoch: 013 - iter: 00200 - train loss: 0.3375
+epoch: 013 - iter: 00400 - train loss: 0.3475
+epoch: 013 - iter: 00600 - train loss: 0.3568
+epoch: 013 - iter: 00800 - train loss: 0.3654
+epoch: 013 - iter: 01000 - train loss: 0.3688
+epoch: 013 - iter: 01200 - train loss: 0.3649
+epoch: 013 - iter: 01344 - train loss: 0.3563 - valid loss: 0.5751 - time: 5.5732
+epoch: 014 - iter: 00000 - train loss: 0.0013
+epoch: 014 - iter: 00200 - train loss: 0.3228
+epoch: 014 - iter: 00400 - train loss: 0.3270
+epoch: 014 - iter: 00600 - train loss: 0.3235
+epoch: 014 - iter: 00800 - train loss: 0.3437
+epoch: 014 - iter: 01000 - train loss: 0.3409
+epoch: 014 - iter: 01200 - train loss: 0.3364
+epoch: 014 - iter: 01344 - train loss: 0.3334 - valid loss: 0.5715 - time: 5.5818
+epoch: 015 - iter: 00000 - train loss: 0.0015
+epoch: 015 - iter: 00200 - train loss: 0.2977
+epoch: 015 - iter: 00400 - train loss: 0.3080
+epoch: 015 - iter: 00600 - train loss: 0.2983
+epoch: 015 - iter: 00800 - train loss: 0.3178
+epoch: 015 - iter: 01000 - train loss: 0.3201
+epoch: 015 - iter: 01200 - train loss: 0.3178
+Model saved to bestmodel.pt!
+epoch: 015 - iter: 01345 - train loss: 0.3121 - valid loss: 0.5638 - time: 6.1837
+epoch: 016 - iter: 00000 - train loss: 0.0014
+epoch: 016 - iter: 00200 - train loss: 0.2845
+epoch: 016 - iter: 00400 - train loss: 0.2849
+epoch: 016 - iter: 00600 - train loss: 0.2928
+epoch: 016 - iter: 00800 - train loss: 0.2955
+epoch: 016 - iter: 01000 - train loss: 0.3018
+epoch: 016 - iter: 01200 - train loss: 0.3033
+Model saved to bestmodel.pt!
+epoch: 016 - iter: 01344 - train loss: 0.2953 - valid loss: 0.5623 - time: 6.2317
+epoch: 017 - iter: 00000 - train loss: 0.0013
+epoch: 017 - iter: 00200 - train loss: 0.2557
+epoch: 017 - iter: 00400 - train loss: 0.2700
+epoch: 017 - iter: 00600 - train loss: 0.2854
+epoch: 017 - iter: 00800 - train loss: 0.2817
+epoch: 017 - iter: 01000 - train loss: 0.2882
+epoch: 017 - iter: 01200 - train loss: 0.2789
+Model saved to bestmodel.pt!
+epoch: 017 - iter: 01344 - train loss: 0.2787 - valid loss: 0.5643 - time: 6.1845
+epoch: 018 - iter: 00000 - train loss: 0.0011
+epoch: 018 - iter: 00200 - train loss: 0.2527
+epoch: 018 - iter: 00400 - train loss: 0.2586
+epoch: 018 - iter: 00600 - train loss: 0.2633
+epoch: 018 - iter: 00800 - train loss: 0.2634
+epoch: 018 - iter: 01000 - train loss: 0.2639
+epoch: 018 - iter: 01200 - train loss: 0.2718
+epoch: 018 - iter: 01346 - train loss: 0.2639 - valid loss: 0.5645 - time: 5.5152
+epoch: 019 - iter: 00000 - train loss: 0.0009
+epoch: 019 - iter: 00200 - train loss: 0.2308
+epoch: 019 - iter: 00400 - train loss: 0.2410
+epoch: 019 - iter: 00600 - train loss: 0.2514
+epoch: 019 - iter: 00800 - train loss: 0.2524
+epoch: 019 - iter: 01000 - train loss: 0.2603
+epoch: 019 - iter: 01200 - train loss: 0.2595
+epoch: 019 - iter: 01344 - train loss: 0.2502 - valid loss: 0.5713 - time: 5.5739
+epoch: 020 - iter: 00000 - train loss: 0.0011
+epoch: 020 - iter: 00200 - train loss: 0.2250
+epoch: 020 - iter: 00400 - train loss: 0.2251
+epoch: 020 - iter: 00600 - train loss: 0.2317
+epoch: 020 - iter: 00800 - train loss: 0.2497
+epoch: 020 - iter: 01000 - train loss: 0.2413
+epoch: 020 - iter: 01200 - train loss: 0.2401
+epoch: 020 - iter: 01345 - train loss: 0.2373 - valid loss: 0.5702 - time: 5.5868
+epoch: 021 - iter: 00000 - train loss: 0.0014
+epoch: 021 - iter: 00200 - train loss: 0.2111
+epoch: 021 - iter: 00400 - train loss: 0.2137
+epoch: 021 - iter: 00600 - train loss: 0.2202
+epoch: 021 - iter: 00800 - train loss: 0.2312
+epoch: 021 - iter: 01000 - train loss: 0.2362
+epoch: 021 - iter: 01200 - train loss: 0.2320
+epoch: 021 - iter: 01343 - train loss: 0.2254 - valid loss: 0.5812 - time: 5.5669
+epoch: 022 - iter: 00000 - train loss: 0.0010
+epoch: 022 - iter: 00200 - train loss: 0.2017
+epoch: 022 - iter: 00400 - train loss: 0.2045
+epoch: 022 - iter: 00600 - train loss: 0.2159
+epoch: 022 - iter: 00800 - train loss: 0.2206
+epoch: 022 - iter: 01000 - train loss: 0.2161
+epoch: 022 - iter: 01200 - train loss: 0.2210
+epoch: 022 - iter: 01343 - train loss: 0.2149 - valid loss: 0.5764 - time: 5.5742
+epoch: 023 - iter: 00000 - train loss: 0.0012
+epoch: 023 - iter: 00200 - train loss: 0.1914
+epoch: 023 - iter: 00400 - train loss: 0.1960
+epoch: 023 - iter: 00600 - train loss: 0.2016
+epoch: 023 - iter: 00800 - train loss: 0.2075
+epoch: 023 - iter: 01000 - train loss: 0.2125
+epoch: 023 - iter: 01200 - train loss: 0.2115
+epoch: 023 - iter: 01346 - train loss: 0.2050 - valid loss: 0.5780 - time: 5.5629
+epoch: 024 - iter: 00000 - train loss: 0.0008
+epoch: 024 - iter: 00200 - train loss: 0.1784
+epoch: 024 - iter: 00400 - train loss: 0.1838
+epoch: 024 - iter: 00600 - train loss: 0.1988
+epoch: 024 - iter: 00800 - train loss: 0.2055
+epoch: 024 - iter: 01000 - train loss: 0.2023
+epoch: 024 - iter: 01200 - train loss: 0.1996
+epoch: 024 - iter: 01345 - train loss: 0.1961 - valid loss: 0.5891 - time: 5.5753

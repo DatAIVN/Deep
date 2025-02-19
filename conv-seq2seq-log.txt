@@ -1,0 +1,153 @@
+Model is on device: cuda:0
+Trainable parameters: 13506254
+Training 1: 100%|██████████| 795/795 [01:50<00:00,  7.18it/s]
+Evaluating: 100%|██████████| 100/100 [00:07<00:00, 14.09it/s]
+Model saved to best_model.pt
+Epoch: 01 | Time: 1m 57s
+	Train Loss: 4.921 | Train PPL: 137.143
+	 Val. Loss: 4.163 |  Val. PPL:  64.294
+Training 2: 100%|██████████| 795/795 [01:51<00:00,  7.10it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.30it/s]
+Model saved to best_model.pt
+Epoch: 02 | Time: 1m 57s
+	Train Loss: 3.714 | Train PPL:  41.028
+	 Val. Loss: 3.087 |  Val. PPL:  21.901
+Training 3: 100%|██████████| 795/795 [01:51<00:00,  7.11it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.49it/s]
+Model saved to best_model.pt
+Epoch: 03 | Time: 1m 57s
+	Train Loss: 3.004 | Train PPL:  20.176
+	 Val. Loss: 2.568 |  Val. PPL:  13.035
+Training 4: 100%|██████████| 795/795 [01:51<00:00,  7.10it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.43it/s]
+Model saved to best_model.pt
+Epoch: 04 | Time: 1m 58s
+	Train Loss: 2.587 | Train PPL:  13.293
+	 Val. Loss: 2.211 |  Val. PPL:   9.123
+Training 5: 100%|██████████| 795/795 [01:51<00:00,  7.11it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.73it/s]
+Model saved to best_model.pt
+Epoch: 05 | Time: 1m 57s
+	Train Loss: 2.284 | Train PPL:   9.814
+	 Val. Loss: 1.954 |  Val. PPL:   7.056
+Training 6: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.41it/s]
+Model saved to best_model.pt
+Epoch: 06 | Time: 1m 57s
+	Train Loss: 2.057 | Train PPL:   7.826
+	 Val. Loss: 1.767 |  Val. PPL:   5.856
+Training 7: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.69it/s]
+Model saved to best_model.pt
+Epoch: 07 | Time: 1m 57s
+	Train Loss: 1.883 | Train PPL:   6.573
+	 Val. Loss: 1.628 |  Val. PPL:   5.095
+Training 8: 100%|██████████| 795/795 [01:51<00:00,  7.11it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.57it/s]
+Model saved to best_model.pt
+Epoch: 08 | Time: 1m 57s
+	Train Loss: 1.745 | Train PPL:   5.727
+	 Val. Loss: 1.515 |  Val. PPL:   4.549
+Training 9: 100%|██████████| 795/795 [01:54<00:00,  6.93it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.76it/s]
+Model saved to best_model.pt
+Epoch: 09 | Time: 2m 0s
+	Train Loss: 1.634 | Train PPL:   5.126
+	 Val. Loss: 1.427 |  Val. PPL:   4.167
+Training 10: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.59it/s]
+Model saved to best_model.pt
+Epoch: 10 | Time: 1m 57s
+	Train Loss: 1.541 | Train PPL:   4.667
+	 Val. Loss: 1.357 |  Val. PPL:   3.885
+Training 11: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.95it/s]
+Model saved to best_model.pt
+Epoch: 11 | Time: 1m 57s
+	Train Loss: 1.462 | Train PPL:   4.315
+	 Val. Loss: 1.297 |  Val. PPL:   3.658
+Training 12: 100%|██████████| 795/795 [01:51<00:00,  7.13it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.40it/s]
+Model saved to best_model.pt
+Epoch: 12 | Time: 1m 57s
+	Train Loss: 1.394 | Train PPL:   4.032
+	 Val. Loss: 1.246 |  Val. PPL:   3.478
+Training 13: 100%|██████████| 795/795 [01:51<00:00,  7.15it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 16.72it/s]
+Model saved to best_model.pt
+Epoch: 13 | Time: 1m 57s
+	Train Loss: 1.335 | Train PPL:   3.799
+	 Val. Loss: 1.203 |  Val. PPL:   3.329
+Training 14: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.67it/s]
+Model saved to best_model.pt
+Epoch: 14 | Time: 1m 57s
+	Train Loss: 1.281 | Train PPL:   3.602
+	 Val. Loss: 1.163 |  Val. PPL:   3.199
+Training 15: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.57it/s]
+Model saved to best_model.pt
+Epoch: 15 | Time: 1m 57s
+	Train Loss: 1.234 | Train PPL:   3.435
+	 Val. Loss: 1.129 |  Val. PPL:   3.092
+Training 16: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.93it/s]
+Model saved to best_model.pt
+Epoch: 16 | Time: 1m 57s
+	Train Loss: 1.190 | Train PPL:   3.288
+	 Val. Loss: 1.097 |  Val. PPL:   2.997
+Training 17: 100%|██████████| 795/795 [01:51<00:00,  7.14it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 16.96it/s]
+Model saved to best_model.pt
+Epoch: 17 | Time: 1m 57s
+	Train Loss: 1.153 | Train PPL:   3.166
+	 Val. Loss: 1.072 |  Val. PPL:   2.920
+Training 18: 100%|██████████| 795/795 [01:51<00:00,  7.13it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.22it/s]
+Model saved to best_model.pt
+Epoch: 18 | Time: 1m 57s
+	Train Loss: 1.118 | Train PPL:   3.058
+	 Val. Loss: 1.047 |  Val. PPL:   2.849
+Training 19: 100%|██████████| 795/795 [01:51<00:00,  7.13it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.85it/s]
+Model saved to best_model.pt
+Epoch: 19 | Time: 1m 57s
+	Train Loss: 1.085 | Train PPL:   2.958
+	 Val. Loss: 1.027 |  Val. PPL:   2.793
+Training 20: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.62it/s]
+Model saved to best_model.pt
+Epoch: 20 | Time: 1m 57s
+	Train Loss: 1.055 | Train PPL:   2.871
+	 Val. Loss: 1.004 |  Val. PPL:   2.730
+Training 21: 100%|██████████| 795/795 [01:51<00:00,  7.12it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.85it/s]
+Model saved to best_model.pt
+Epoch: 21 | Time: 1m 57s
+	Train Loss: 1.026 | Train PPL:   2.789
+	 Val. Loss: 0.985 |  Val. PPL:   2.678
+Training 22: 100%|██████████| 795/795 [01:51<00:00,  7.11it/s]
+Evaluating: 100%|██████████| 100/100 [00:06<00:00, 16.45it/s]
+Model saved to best_model.pt
+Epoch: 22 | Time: 1m 57s
+	Train Loss: 0.998 | Train PPL:   2.714
+	 Val. Loss: 0.970 |  Val. PPL:   2.638
+Training 23: 100%|██████████| 795/795 [01:51<00:00,  7.13it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.77it/s]
+Model saved to best_model.pt
+Epoch: 23 | Time: 1m 57s
+	Train Loss: 0.975 | Train PPL:   2.652
+	 Val. Loss: 0.955 |  Val. PPL:   2.598
+Training 24: 100%|██████████| 795/795 [01:51<00:00,  7.13it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 17.35it/s]
+Model saved to best_model.pt
+Epoch: 24 | Time: 1m 57s
+	Train Loss: 0.954 | Train PPL:   2.597
+	 Val. Loss: 0.941 |  Val. PPL:   2.562
+Training 25: 100%|██████████| 795/795 [01:51<00:00,  7.13it/s]
+Evaluating: 100%|██████████| 100/100 [00:05<00:00, 16.84it/s]
+Model saved to best_model.pt
+Epoch: 25 | Time: 1m 57s
+	Train Loss: 0.932 | Train PPL:   2.539
+	 Val. Loss: 0.926 |  Val. PPL:   2.524
+Model saved to best_model.pt

@@ -1,0 +1,160 @@
+Epoch 1/80, Loss: 3.8984
+Validation Loss: 3.0618
+Epoch 2/80, Loss: 2.6987
+Validation Loss: 2.4568
+Epoch 3/80, Loss: 2.2233
+Validation Loss: 2.1108
+Epoch 4/80, Loss: 1.9289
+Validation Loss: 1.9015
+Epoch 5/80, Loss: 1.7197
+Validation Loss: 1.7467
+Epoch 6/80, Loss: 1.5602
+Validation Loss: 1.6353
+Epoch 7/80, Loss: 1.4333
+Validation Loss: 1.5527
+Epoch 8/80, Loss: 1.3279
+Validation Loss: 1.4869
+Epoch 9/80, Loss: 1.2389
+Validation Loss: 1.4304
+Epoch 10/80, Loss: 1.1617
+Validation Loss: 1.3927
+Epoch 11/80, Loss: 1.0932
+Validation Loss: 1.3602
+Epoch 12/80, Loss: 1.0321
+Validation Loss: 1.3322
+Epoch 13/80, Loss: 0.9770
+Validation Loss: 1.3125
+Epoch 14/80, Loss: 0.9264
+Validation Loss: 1.2952
+Epoch 15/80, Loss: 0.8794
+Validation Loss: 1.2855
+Epoch 16/80, Loss: 0.8365
+Validation Loss: 1.2757
+Epoch 17/80, Loss: 0.7960
+Validation Loss: 1.2702
+Epoch 18/80, Loss: 0.7579
+Validation Loss: 1.2646
+Epoch 19/80, Loss: 0.7223
+Validation Loss: 1.2701
+Epoch 20/80, Loss: 0.6884
+Validation Loss: 1.2724
+Epoch 21/80, Loss: 0.6564
+Validation Loss: 1.2786
+Epoch 22/80, Loss: 0.6263
+Validation Loss: 1.2800
+Epoch 23/80, Loss: 0.5970
+Validation Loss: 1.2907
+Epoch 24/80, Loss: 0.5690
+Validation Loss: 1.3005
+Epoch 25/80, Loss: 0.5425
+Validation Loss: 1.3126
+Epoch 26/80, Loss: 0.5168
+Validation Loss: 1.3253
+Epoch 27/80, Loss: 0.4924
+Validation Loss: 1.3400
+Epoch 28/80, Loss: 0.4686
+Validation Loss: 1.3540
+Epoch 29/80, Loss: 0.4460
+Validation Loss: 1.3679
+Epoch 30/80, Loss: 0.4240
+Validation Loss: 1.3884
+Epoch 31/80, Loss: 0.4025
+Validation Loss: 1.4090
+Epoch 32/80, Loss: 0.3827
+Validation Loss: 1.4292
+Epoch 33/80, Loss: 0.3632
+Validation Loss: 1.4472
+Epoch 34/80, Loss: 0.3442
+Validation Loss: 1.4671
+Epoch 35/80, Loss: 0.3261
+Validation Loss: 1.4909
+Epoch 36/80, Loss: 0.3082
+Validation Loss: 1.5231
+Epoch 37/80, Loss: 0.2918
+Validation Loss: 1.5433
+Epoch 38/80, Loss: 0.2756
+Validation Loss: 1.5639
+Epoch 39/80, Loss: 0.2599
+Validation Loss: 1.5899
+Epoch 40/80, Loss: 0.2446
+Validation Loss: 1.6152
+Epoch 41/80, Loss: 0.2311
+Validation Loss: 1.6460
+Epoch 42/80, Loss: 0.2173
+Validation Loss: 1.6782
+Epoch 43/80, Loss: 0.2044
+Validation Loss: 1.7036
+Epoch 44/80, Loss: 0.1918
+Validation Loss: 1.7316
+Epoch 45/80, Loss: 0.1799
+Validation Loss: 1.7667
+Epoch 46/80, Loss: 0.1692
+Validation Loss: 1.7864
+Epoch 47/80, Loss: 0.1587
+Validation Loss: 1.8156
+Epoch 48/80, Loss: 0.1485
+Validation Loss: 1.8422
+Epoch 49/80, Loss: 0.1392
+Validation Loss: 1.8733
+Epoch 50/80, Loss: 0.1301
+Validation Loss: 1.9014
+Epoch 51/80, Loss: 0.1224
+Validation Loss: 1.9285
+Epoch 52/80, Loss: 0.1142
+Validation Loss: 1.9532
+Epoch 53/80, Loss: 0.1074
+Validation Loss: 1.9847
+Epoch 54/80, Loss: 0.1005
+Validation Loss: 2.0132
+Epoch 55/80, Loss: 0.0940
+Validation Loss: 2.0385
+Epoch 56/80, Loss: 0.0886
+Validation Loss: 2.0599
+Epoch 57/80, Loss: 0.0832
+Validation Loss: 2.0866
+Epoch 58/80, Loss: 0.0785
+Validation Loss: 2.1133
+Epoch 59/80, Loss: 0.0734
+Validation Loss: 2.1407
+Epoch 60/80, Loss: 0.0700
+Validation Loss: 2.1644
+Epoch 61/80, Loss: 0.0663
+Validation Loss: 2.1853
+Epoch 62/80, Loss: 0.0626
+Validation Loss: 2.2107
+Epoch 63/80, Loss: 0.0594
+Validation Loss: 2.2384
+Epoch 64/80, Loss: 0.0573
+Validation Loss: 2.2559
+Epoch 65/80, Loss: 0.0540
+Validation Loss: 2.2814
+Epoch 66/80, Loss: 0.0514
+Validation Loss: 2.2909
+Epoch 67/80, Loss: 0.0492
+Validation Loss: 2.3157
+Epoch 68/80, Loss: 0.0475
+Validation Loss: 2.3372
+Epoch 69/80, Loss: 0.0460
+Validation Loss: 2.3613
+Epoch 70/80, Loss: 0.0439
+Validation Loss: 2.3719
+Epoch 71/80, Loss: 0.0429
+Validation Loss: 2.3917
+Epoch 72/80, Loss: 0.0406
+Validation Loss: 2.4110
+Epoch 73/80, Loss: 0.0396
+Validation Loss: 2.4325
+Epoch 74/80, Loss: 0.0383
+Validation Loss: 2.4447
+Epoch 75/80, Loss: 0.0374
+Validation Loss: 2.4585
+Epoch 76/80, Loss: 0.0358
+Validation Loss: 2.4775
+Epoch 77/80, Loss: 0.0355
+Validation Loss: 2.4978
+Epoch 78/80, Loss: 0.0343
+Validation Loss: 2.5135
+Epoch 79/80, Loss: 0.0338
+Validation Loss: 2.5280
+Epoch 80/80, Loss: 0.0329
+Validation Loss: 2.5333
